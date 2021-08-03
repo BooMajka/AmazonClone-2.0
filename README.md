@@ -1,7 +1,7 @@
 # Amazon Clone 2.0
 
 # DEMO
-https://determined-lamarr-46dc80.netlify.app
+https://gracious-pike-70f6f8.netlify.app
 
 # Technology
 - JavaScript ES6
