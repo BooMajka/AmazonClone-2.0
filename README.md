@@ -6,3 +6,4 @@ https://determined-lamarr-46dc80.netlify.app
 # Technology
 - JavaScript ES6
 - Tailwind CSS
+- Firebase
